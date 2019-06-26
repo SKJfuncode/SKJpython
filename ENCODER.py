@@ -442,7 +442,7 @@ bet199=bet198.replace(rip0b(99),"hexs(rip0b(99))")
 bet200=bet199.replace(rip0b(100),"hexs(rip0b(100))")
 bet201=bet200.replace(rip0b(101),"hexs(rip0b(101))")
 print(bet201)
-
+#end
 
 
 
